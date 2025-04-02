@@ -1,12 +1,14 @@
-# Gather3
+![Gather3 Logo](logo.png)
 
-## Transforming Event Experiences with Blockchain Technology
+# Gather3 Rollup Integration 🌐
 
-Gather3 is an innovative platform that combines **events, blockchain, and social networking**, allowing participants to securely acquire tickets, validate their attendance, and receive **exclusive NFT certificates** of participation. Users can build a **social profile** showcasing their attended events, follow friends, and interact with organizers.
+## Transforming Event Experiences with Blockchain Technology 🚀
+
+Gather3 is an innovative platform that combines **events, blockchain, and social networking** 🎟️🔗👥, allowing participants to securely acquire tickets, validate their attendance, and receive **exclusive NFT certificates** of participation. Users can build a **social profile** showcasing their attended events, follow friends, and interact with organizers.
 
 Event organizers can promote their events, manage tickets, and create direct connections with their followers, making the experience more engaging and decentralized.
 
-### Leveraging Espresso Network and Open Intent
+### Leveraging Espresso Network and Open Intent 🌍
 
 Gather3 utilizes the [Espresso Network](https://docs.espressosys.com/network/learn/the-espresso-network) to ensure fast, secure, and cross-chain transactions. The Espresso Network's HotShot consensus mechanism provides rapid confirmations and enhanced security, crucial for the integrity of NFT ticketing and real-time event validation.
 
@@ -14,7 +16,14 @@ Furthermore, by integrating with [Across Protocol](https://docs.across.to/introd
 
 These technologies empower Gather3 to offer a decentralized and user-centric platform, transforming how participants and organizers experience events in the blockchain space.
 
-## Purpose
+## Project Status 📈
+
+Gather3 is a visionary project that has already seen partial implementation:
+
+- **Espresso Network Rollup**: Successfully deployed on both testnet and mainnet.
+- **Frontend Integration**: Operational on a specific blockchain network. [Block Fest](https://block-fest.vercel.app/), developed during a previous blockchain hackathon, is currently operational but does not yet feature rollup capabilities or cross-chain wallet integration, limiting its functionality to a single blockchain environment.
+
+## Purpose 🎯
 
 Gather3 aims to **transform how people participate and interact in Web3 and blockchain events**, bringing more **transparency, authenticity, and engagement** to the sector. The platform:
 
@@ -26,9 +35,9 @@ Gather3 aims to **transform how people participate and interact in Web3 and bloc
 
 ✅ Offers new opportunities for **monetization and networking** within the Web3 universe.
 
-Gather3 is not just a ticket marketplace, but a **hub of experiences, innovation, and community** within the blockchain revolution. ��
+Gather3 is not just a ticket marketplace, but a **hub of experiences, innovation, and community** within the blockchain revolution.
 
-## Technical Architecture
+## Technical Architecture 🛠️
 
 ### NFT Ticketing System
 
@@ -59,7 +68,7 @@ We integrate with [Across Protocol](https://docs.across.to/introduction/what-is-
 - **Lower costs** - Reduced fees compared to traditional message-passing solutions
 - **Enhanced security** - Secure settlement layer for verifying transaction completion
 
-## Key Features
+## Key Features 🔑
 
 - **Secure NFT Tickets**: Blockchain-verified event tickets that cannot be counterfeited
 - **Social Profiles**: User profiles showcasing attended events and earned NFTs
